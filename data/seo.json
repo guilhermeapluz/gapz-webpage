@@ -1,0 +1,10 @@
+{
+  "title": "GAPZ Data Consulting",
+  "description": "GAPZ Data Consulting web page",
+  "additionalLinkTags": [
+    {
+      "rel": "icon",
+      "href": "favicon.png"
+    }
+  ]
+}
